@@ -1,0 +1,58 @@
+.card-container {
+  display: grid;
+  flex-wrap: wrap;
+  justify-content: center;
+
+
+}
+
+#header_ssshht_logo{
+  display: grid;
+  flex-wrap: wrap;
+  justify-content: center;
+  height: 90%;
+  width: 90%;
+  margin-top: 5%;
+}
+
+#googleplaypng {
+height: 40%;
+width: 40%;
+margin-top: 2%;
+}
+
+#appstorepng {
+  height: 40%;
+  width: 40%;
+  margin-top: 2%;
+}
+
+.nav-tabs{
+  justify-content: center;
+  margin-top: 1%;
+  font-size: 150%;
+}
+
+@media screen and (max-width: 767px) {
+  .card-container {
+    display: grid;
+    flex-wrap: wrap;
+    justify-content: center;
+
+
+  }
+
+  #header_ssshht_logo{
+    display: grid;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 70%;
+    width: 80%;
+    margin-top: 5%;
+  }
+
+  .nav-tabs{
+    justify-content: center;
+  }
+
+}
