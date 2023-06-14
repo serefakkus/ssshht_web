@@ -1,4 +1,20 @@
 
+.card-container {
+  display: grid;
+  flex-wrap: wrap;
+  justify-content: center;
+
+
+}
+
+#header_ssshht_logo{
+  display: grid;
+  flex-wrap: wrap;
+  justify-content: center;
+  height: 90%;
+  width: 90%;
+  margin-top: 5%;
+}
 
   svg#clouds {
     position: fixed;

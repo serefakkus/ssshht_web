@@ -16,16 +16,46 @@
 }
 
 #googleplaypng {
-height: 40%;
-width: 40%;
-margin-top: 2%;
+height: 50%;
+width: 50%;
+margin-top: 3%;
 }
 
 #appstorepng {
-  height: 40%;
-  width: 40%;
-  margin-top: 2%;
+  height: 50%;
+  width: 50%;
 }
+
+#googleplaypngwelcome {
+  height: 25%;
+  width: 25%;
+  margin-top: 3%;
+  }
+
+  #appstorepngwelcome {
+    height: 25%;
+    width: 25%;
+  }
+
+#indir-text {
+  margin-bottom: 3cqmin;
+color: cornflowerblue;
+}
+
+#biz_kimiz {
+  height: 100%;
+  width: 100%;
+}
+
+#row2 {
+  margin-top: 5%;
+}
+
+#row3 {
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
 
 .nav-tabs{
   justify-content: center;
@@ -54,5 +84,27 @@ margin-top: 2%;
   .nav-tabs{
     justify-content: center;
   }
+
+  #googleplaypng {
+    height: 80%;
+    width: 80%;
+    margin-top: 3%;
+    }
+
+    #appstorepng {
+      height: 80%;
+      width: 80%;
+    }
+
+  #googleplaypngwelcome {
+    height: 40%;
+    width: 40%;
+    margin-top: 2%;
+    }
+
+    #appstorepngwelcome {
+      height: 40%;
+      width: 40%;
+    }
 
 }
